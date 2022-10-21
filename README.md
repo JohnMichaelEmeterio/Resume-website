@@ -1,2 +1,2 @@
-# Resume-website
-simple resume website using html and css
+# firebase
+create account and login
