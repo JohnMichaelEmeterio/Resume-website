@@ -1,13 +1,25 @@
 body {
     background-size: 170%; 
 }
-.img1 {
+img.img1 {
     width: 30%;
     margin-left: 35%;
     margin-top: 5%;
 }
-.img1:hover{
+img.img1:hover{
     transform: scale(1.5);
+}
+img.img2 {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+img.img2:hover {
+    transform: scale(1.5);
+}
+img.icontext {
+    font-size: 1.8em;
 }
 #icon{
     width: 10%; 
@@ -16,9 +28,6 @@ body {
     position: related;
     width: 20%;
     margin-top: -3.5em;
-}
-.icontext {
-    font-size: 1.8em;
 }
 .name {
     margin-left: 5%;
@@ -47,6 +56,9 @@ body {
  .text5 {
      margin-top: -1.0em;
  }
+ .text6{
+    font-size: 1.3em;
+ }
  a{
     font-size: 140%;
  }
@@ -65,5 +77,11 @@ body {
     box-shadow: 5px 10px 18px #888888;
     padding-bottom: 40%;
 }
-
-
+img.imghov{
+    width: 90%;
+    margin-left: 1.3em;
+   
+}
+img.imghov:hover {
+    transform: scale(1.2);
+}
